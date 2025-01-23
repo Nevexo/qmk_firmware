@@ -25,8 +25,6 @@
 #define NO_PIN_NUM 10
 #define CLR_REG_VAL 0x3FF
 
-#define RGB_MATRIX_ENABLE true
-
 /* Encoder Configuration */
 #define ENCODER_DEFAULT_POS 0x3
 
