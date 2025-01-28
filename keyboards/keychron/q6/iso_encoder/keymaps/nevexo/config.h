@@ -1,0 +1,7 @@
+#pragma once
+
+// #define MK_KINETIC_SPEED 
+#define MOUSEKEY_INITIAL_SPEED 3
+#define MOUSEKEY_BASE_SPEED 1000
+#define MOUSEKEY_MOVE_DELTA 5
+// #define MK_VARIANT MK_TYPE_KINETIC
